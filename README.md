@@ -1,2 +1,2 @@
 Original repository:
-https://github.com/TimZR25/Ship-s-Doctor
+https://github.com/TimZR25/WerewolfRage
